@@ -1,9 +1,5 @@
-header {
-	background-image: url("../backgrounds/h_img.jpg");
+header img {
 	width: 100%;
-	height: 100%;
-	background-size: cover;
-
 }
 
 .services {
@@ -49,7 +45,7 @@ header {
 
 .dev  {
 	text-align: center;
-	padding: 0 50px;
+	padding: 50px;
 
 }
 
@@ -68,12 +64,16 @@ header {
 	
 }
 
-.contacts {
-	background-image: url("../backgrounds/c_image.jpg");
-	background-size: cover;
+.contacts img{
 	width: 100%;
-	height: 50%;
+	
 }
+
+.contacts form {
+	
+}
+
+
 
 
 
